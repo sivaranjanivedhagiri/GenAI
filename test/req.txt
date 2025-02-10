@@ -1,0 +1,2 @@
+pandas
+numpy=24.0
